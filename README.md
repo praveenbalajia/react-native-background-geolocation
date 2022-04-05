@@ -1,2 +1,2 @@
 # react-native-background-geolocation
-test
+Sample Check
